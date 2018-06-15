@@ -1,0 +1,11 @@
+{
+  "name": "fruitybot",
+  "version": "1.0.0",
+  "description": "flstudio server bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "testbot"
+  },
+  "author": "Lee.",
+  "license": "MIT"
+}
